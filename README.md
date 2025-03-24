@@ -17,5 +17,5 @@ Fibonacci Calculator API — это простое REST-приложение н�
 ## 🔧 Установка и запуск
 ### 1. Клонирование проекта
 ```bash
-git clone https://github.com/USERNAME/REPOSITORY_NAME.git
-cd REPOSITORY_NAME
+git clone https://github.com/AvetSerb/fibonacci.git
+cd fibonacci
